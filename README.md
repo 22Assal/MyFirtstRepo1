@@ -1,4 +1,4 @@
-# MyFirtstRepo1
+# MyFirtstRepo - 1
 This is my first GitHub repository for the lab
 
 
