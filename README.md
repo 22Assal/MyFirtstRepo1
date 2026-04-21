@@ -1,5 +1,5 @@
 # MyFirtstRepo1
-This is my first GitHub repository for the lab
+This is my 1st GitHub repository for the lab
 
 
 # My First GitHub Project 
