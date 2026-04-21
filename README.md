@@ -2,8 +2,8 @@
 This is my first GitHub repository for the lab
 
 
-# My First GitHub Project
-This project was created as part of the Git & GitHub Lab.
+# My First GitHub Project 
+This project was created as part of the Git & GitHub Lab  .
 
 ## About
 - Created by: [Your Name]
